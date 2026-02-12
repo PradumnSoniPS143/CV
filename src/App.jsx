@@ -80,9 +80,10 @@ export default function App() {
             <ul className="skills">
               <li>HTML & CSS</li>
               <li>React</li>
+              <li>Git & Github</li>
               <li>JavaScript</li>
               <li>Core Java</li>
-              <li>MySQL / SQL</li>
+              <li>MySQL / PostgreSQL</li>
               <li>JDBC</li>
               <li>OOPS</li>
               <li>Hibernate</li>          
