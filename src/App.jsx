@@ -79,11 +79,13 @@ export default function App() {
             <h3>Core Skills</h3>
             <ul className="skills">
               <li>HTML & CSS</li>
+              <li>React</li>
               <li>JavaScript</li>
               <li>Core Java</li>
               <li>MySQL / SQL</li>
               <li>JDBC</li>
               <li>OOPS</li>
+              <li>Hibernate</li>          
             </ul>
           </div>
         </div>
